@@ -47,12 +47,12 @@ namespace TestUpd8.Api
                 {
                     Title = "TestUpd8 API",
                     Version = "v1",
-                    Description = "Test Técnico TestUpd8",
+                    Description = "Test Técnico Upd8",
                     Contact = new OpenApiContact
                     {
                         Name = "Felipe Pereira",
                         Email = string.Empty,
-                        Url = new Uri(""),
+                        Url = new Uri("https://www.upd8.com.br/"),
                     },
                 });
             });
